@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Tadeu
 
-💻 Desenvolvedor em formação com foco em **Backend e Sistemas Web**  
+💻 Desenvolvedor Backend em formação, focado em Sistemas Web e APIs REST
 🚀 Python | Django | Django REST Framework | PostgreSQL  
 📚 Estudando fundamentos sólidos de computação e engenharia de software  
 
@@ -8,12 +8,10 @@
 
 ## 🧠 Sobre mim
 
-- Foco em **desenvolvimento backend**
-- Construção de **APIs REST** bem estruturadas
-- Interesse em **arquitetura de software, concorrência e sistemas escaláveis**
-- Estudando: estruturas de dados, compiladores, paralelismo e bancos de dados
-- Buscando evolução constante com projetos práticos e código limpo
-
+• Foco em desenvolvimento backend  
+• Construção de APIs REST bem estruturadas  
+• Interesse em arquitetura de software, concorrência e sistemas escaláveis  
+• Estudando: estruturas de dados, compiladores, paralelismo e bancos de dados  
 ---
 
 ## 🛠️ Stack Tecnológica
@@ -40,3 +38,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+📌 Este perfil reflete meus estudos e projetos atuais em backend e engenharia de software.
