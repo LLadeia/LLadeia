@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor Backend em formação, focado em Sistemas Web e APIs REST
 🚀 Python | Django | Django REST Framework | PostgreSQL  
-📚 Estudando fundamentos sólidos de computação e engenharia de software  
+📚 Estudando fundamentos sólidos de computação e engenharia da computação 
 
 ---
 
