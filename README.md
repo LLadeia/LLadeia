@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Tadeu
+# 👋 Olá, eu sou Tadeu Ladeia
 
 💻 Desenvolvedor Backend em formação, focado em Sistemas Web e APIs REST
 🚀 Python | Django | Django REST Framework | PostgreSQL  
