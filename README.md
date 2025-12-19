@@ -8,10 +8,11 @@
 
 ## 🧠 Sobre mim
 
-• Foco em desenvolvimento backend  
+• Foco em desenvolvimento backend
 • Construção de APIs REST bem estruturadas  
 • Interesse em arquitetura de software, concorrência e sistemas escaláveis  
 • Estudando: estruturas de dados, compiladores, paralelismo e bancos de dados  
+
 ---
 
 ## 🛠️ Stack Tecnológica
