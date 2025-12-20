@@ -41,4 +41,4 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-📌 Este perfil reflete meus estudos e projetos atuais em backend e engenharia de software.
+📌 Este perfil reflete meus estudos e projetos atuais em backend e engenharia da computaçao.
