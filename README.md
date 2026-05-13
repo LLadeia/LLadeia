@@ -1,4 +1,4 @@
-# Olá, eu sou Tadeu Ladeia 👋
+# Eu sou Tadeu Ladeia 
 
 **Desenvolvedor Backend** em formação, construindo APIs REST robustas e sistemas web escaláveis.
 Estudante de Engenharia da Computação com projetos reais no GitHub.
