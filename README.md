@@ -1,4 +1,4 @@
-# Olá, eu sou o Tadeu Ladeia
+# Eu sou o Tadeu Ladeia
 
 **Desenvolvedor backend** com foco em Python, FastAPI e Django.
 Estudante de Engenharia da Computação em Montes Claros, MG — **disponível para estágio remoto**.
